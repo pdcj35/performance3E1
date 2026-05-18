@@ -1,0 +1,7 @@
+# Ignore JMeter logs
+*.log
+
+# Ignore HTML reports
+/report-output/
+/result/
+*.jtl
