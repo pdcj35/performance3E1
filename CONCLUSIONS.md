@@ -1,7 +1,7 @@
 # Conclusions: Performance Testing (FakeStore API)
 
-*Date:* May 2026  
-*Target:* Authentication Endpoint (POST /auth/login)
+*Date:* May 2026 
+*Target:* Authentication Endpoint (POST /auth/login) 
 *Status:* Passed
 
 ---
